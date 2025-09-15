@@ -4,7 +4,7 @@
 This project explores the **Titanic: Machine Learning from Disaster** dataset (Kaggle).  
 The goal is to practice **data cleaning, exploration, and visualization** using Python.  
 
-We analyze survival patterns based on features like **gender, class, age**, and visualize key insights.
+I analyze survival patterns based on features like **gender, class, age**, and visualize key insights.
 
 ---
 
